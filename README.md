@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! 👋 Glad you stopped by—let's turn data into insights together.
 
 Hi, I'm Shivoy Jain 👋
 
