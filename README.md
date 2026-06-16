@@ -1,6 +1,6 @@
 ## Hey there! 👋 Glad you stopped by—let's turn data into insights together.
 
-Hi, I'm Shivoy Jain 👋
+Hi, I'm Shivoy Jain, 
 
 I'm an aspiring Data Analyst passionate about transforming data into meaningful insights. I enjoy working with Excel, SQL, Python, and Power BI to analyze datasets, build interactive dashboards, and solve real-world business problems.
 I'm continuously improving my analytical and problem-solving skills by working on hands-on projects and exploring advanced data analytics concepts.
